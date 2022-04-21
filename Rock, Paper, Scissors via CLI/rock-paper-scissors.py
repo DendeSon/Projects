@@ -1,3 +1,8 @@
+"""
+Very basic rock, paper, scissors CLI game designed to play back to back games until the user decides to 'quit'. 
+If the user supplies an input that does not satisfy the game, the user is simply asked to try again.
+A WIN/LOSS ratio is displayed at the end of the users session.
+"""
 import random
 
 print('\nLet\'s play a game :)')
